@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @khalilelkadih
+👀 I’m interested in computer programming web/mobile
+🌱 I’m currently learning React js
+link to [gmail](khalil94elkadih@gmail.com)
+link to [instagram](elkadih94)
+link to [twitter](https://twitter.com/elkadih_k)
