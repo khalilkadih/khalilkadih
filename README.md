@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 #### link to [linkedin](https://www.linkedin.com/in/khalil-el-kadih-bb186a161/)
 #### link to [Instagram](elkadih94)
 #### link to [Twitter](https://twitter.com/elkadih_k)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
