@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **khalilkadih/khalilkadih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 ####👋 Hi, I’m @khalilelkadih
 #### 👀 I’m interested in computer programming web/mobile
 ####🌱 I’m currently learning React js
-#### link to [gmail](khalil94elkadih@gmail.com)
-#### link to [instagram](elkadih94)
-#### link to [twitter](https://twitter.com/elkadih_k)
+#### link to [Gmail](khalil94elkadih@gmail.com)
+#### link to [Instagram](elkadih94)
+#### link to [Twitter](https://twitter.com/elkadih_k)
