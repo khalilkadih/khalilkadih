@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ####👋 Hi, I’m @khalilelkadih
 #### 👀 I’m interested in computer programming web/mobile
 ####🌱 I’m currently learning React js
-#### link to [Gmail](khalil94elkadih@gmail.com)
+#### [Gmail]:khalil94elkadih@gmail.com
 #### link to [Instagram](elkadih94)
 #### link to [Twitter](https://twitter.com/elkadih_k)
