@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/elkadih_k" target="blank"><img src="https://img.shields.io/twitter/follow/elkadih_k?logo=twitter&style=for-the-badge" alt="elkadih_k" /></a> </p>
 
-- 🌱 I’m currently learning **react & laravel**
+- 🌱
 
 - 📫 How to reach me **khalil94elkadih@gmail.com**
 
